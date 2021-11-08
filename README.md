@@ -68,13 +68,7 @@
         </h3>
 
 
-        </h4>
-    
-          Người bạn ngưỡng mộ nhất là =><a
-            href="https://www.facebook.com/profile.php?=75816879"
-            >Facebooknguoiay</a>
-          
-        </h4>
+       
   </body>
 </html>
  
