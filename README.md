@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     Hellu, đây là web thử nghiệm đầu tiên của Scottia KL.
