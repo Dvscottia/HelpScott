@@ -36,38 +36,6 @@
         <br/>
 
 
-        <form>
-          <note>
-            Web này có thể dùng một số thuật toán đoán được người bạn đang ngưỡng mộ :D 
-            Thử không , thú vị lắm đó :))</note
-          >
-          <br />
-
-          <label>Điền tên bạn vào đây</label>
-          <input type="submit">
-
-          <input type="text" placeholder="Tên mình là??" />
-          <div></div>
-          <label> Bạn đã từng có hoài bão và định hướng riêng cho bản thân chưa</label>
-          <select>
-            <option>Có, mình đang đi theo con đường tự mình vạch ra :3</option>
-            <option> Chưa , mình vẫn đang đi tìm</option>
-          </select>
-          
-          <div></div>
-          <label> Bạn có nghĩ mình sẽ theo con đường của một người nào đó không ?</label>
-
-          <input type="radio" name="thang" /> Không :D mình có hướng đi riêng và hoài bão
-          <input type="radio" name="thang" /> Có chứ, họ đã thành công cơ mà , ngại gì mà không theo :D
-          <div></div>
-          <br />
-          <button>
-           <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkienthucvui.vn%2Ftong-hop-nhung-mat-troll-huyen-thoai-74%2F&psig=AOvVaw1e_HxtEt_I4qz7Je-FU-0I&ust=1634554355689000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjCgtij0fMCFQAAAAAdAAAAABAD"> Đừng bấm nút này:D</a>
-          </button>
-        </form>
-        </h3>
-
-
        
   </body>
 </html>
